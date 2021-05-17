@@ -5,7 +5,7 @@
 
 <div align=center>
   
-[![coding waifu x 1000](./video.mp4)](https://github.com/VishalChoubey1019)
+[![coding waifu x 1000](./giffile.gif)](https://github.com/VishalChoubey1019)
 </div>
 
 ```python
