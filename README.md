@@ -1,4 +1,5 @@
-### Konnichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+### Konnichiwa!<img src="https://media.tenor.com/images/c4f9807829ab85eaf07682511cf12a1c/tenor.gif" width="30px">
+
 
 ```python
 Name =  "Vishal Choubey"
