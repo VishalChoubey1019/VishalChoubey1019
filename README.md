@@ -5,12 +5,12 @@
 
 <div align=center>
   
-[![coding waifu x 1000](coderwaifu.mp4)](https://github.com/VishalChoubey1019)
+[![coding waifu x 1000](/coderwaifu.mp4)](https://github.com/VishalChoubey1019)
 </div>
 
 ```python
 Name =  "Vishal Choubey"
-Interests = ["Competitive Coding", "Maths", "Developing whatever i wish" and "Anime"]
+Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
 Languages = ["C++", "C", "Python", "HTML"]
 ```
 
