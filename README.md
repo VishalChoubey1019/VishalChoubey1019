@@ -1,7 +1,9 @@
-### Konnichiwa! 👋
+### Konnichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 - 🔭 I’m currently working on my Truth and Dare Bot.
 - 🌱 I’m currently learning Python and JavaScript.
+
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 ```python
 Name=  "Vishal Choubey"
