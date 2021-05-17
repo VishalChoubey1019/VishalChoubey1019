@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Python and JavaScript.
 
 ```python
-I'm Vishal Choubey
-My interests are ["Competitive Coding", "Maths", "Developing whatever i wish" and "Anime"]
-Languages that i know are ["C++", "C", "Python", "HTML"]
+Name=  "Vishal Choubey"
+Interests= ["Competitive Coding", "Maths", "Developing whatever i wish" and "Anime"]
+Languages= ["C++", "C", "Python", "HTML"]
 ```
 
 ### Connect with me:
