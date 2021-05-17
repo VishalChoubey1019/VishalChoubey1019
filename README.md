@@ -1,5 +1,11 @@
 ### Konnichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
+```python
+Name =  "Vishal Choubey"
+Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
+Languages = ["C++", "C", "Python", "HTML"]
+```
+
 - 🔭 I’m currently working on my Truth and Dare Bot.
 - 🌱 I’m currently learning Python and JavaScript.
 
@@ -8,11 +14,6 @@
 [![coding waifu x 1000](./giffile.gif)](https://github.com/VishalChoubey1019)
 </div>
 
-```python
-Name =  "Vishal Choubey"
-Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "Python", "HTML"]
-```
 
 ### Connect with me:
 <div align=left>
