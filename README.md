@@ -5,7 +5,7 @@
 
 <div align=center>
   
-[![coding speed x 1000](/images/tenor.gif)](https://github.com/VishalChoubey1019)
+[![coding waifu x 1000](coderwaifu.mp4)](https://github.com/VishalChoubey1019)
 </div>
 
 ```python
