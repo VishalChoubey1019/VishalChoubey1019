@@ -4,11 +4,10 @@
 ```python
 Name =  "Vishal Choubey"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "Python", "HTML"]
+Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
 ```
 
-- 🔭 I’m currently working on my Truth and Dare Bot.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning NodeJS.
 
 <div align=center>
   
