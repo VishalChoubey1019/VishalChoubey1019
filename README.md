@@ -4,7 +4,7 @@
 ```python
 Name =  "Vishal Choubey"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
+Languages = ["C++", "C", "Python", "JavaScript"]
 ```
 
 - 🌱 I’m currently learning NodeJS.
