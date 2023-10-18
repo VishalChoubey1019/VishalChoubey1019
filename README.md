@@ -7,8 +7,6 @@ Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime
 Languages = ["C++", "C", "Python", "JavaScript"]
 ```
 
-- 🌱 I’m currently learning NodeJS.
-
 <div align=center>
   
 [![coding waifu x 1000](./giffile.gif)](https://github.com/VishalChoubey1019)
